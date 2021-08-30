@@ -75,7 +75,7 @@ n=1	n=2	n=3	n=4     n=5
 ## Solve (No.5 - 7 make UI from Flutter)
 5. <b>Basic layout</b>
 - Create application following to the layout like the photo1 below.<br><br>
-![alt text](https://github.com/atthana-p/best-practices/blob/master/photos/photo1.png?raw=true)<br><br>
+![alt text](https://github.com/atthana/flutter-exam/blob/main/photos/photo1.png?raw=true)<br><br>
 - Use Linear layout (Row, Column)<br>
 - The widgets in the photo are consisted of : <br>
   - Container with Text, <br>
@@ -84,7 +84,7 @@ n=1	n=2	n=3	n=4     n=5
   - Distance between widgets = 4 pixels, <br>
   - Manage color component clearly and easy to understand. <br>
   - Be able to rotate the screens and show widgets in each positions properly. (photo2 to show landscape)<br><br>
-![alt text](https://github.com/atthana-p/best-practices/blob/master/photos/photo2.png?raw=true)
+![alt text](https://github.com/atthana/flutter-exam/blob/main/photos/photo2.png?raw=true)
 
 <br>
 References : https://www.youtube.com/watch?v=_rnZaagadyo <br><br>
@@ -118,5 +118,5 @@ Components:
 - Cards to collect person info.
 - Etc.<br>
 
-![alt text](https://github.com/atthana-p/best-practices/blob/master/photos/flutter-exam.png?raw=true)<br><br><br>
+![alt text](https://github.com/atthana/flutter-exam/blob/main/photos/flutter-exam.png?raw=true)<br><br><br>
 ## Please do all the tests in your github repo and share us only your repo together with explaining a bit in readme about what did you do, how to test, anything you would like to tell.
